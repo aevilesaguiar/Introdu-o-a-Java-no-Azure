@@ -1,2 +1,13 @@
-# Introdu-o-a-Java-no-Azure
-Introdução a Java no Azure Coleção Editado em 29/03/2022 Criado por  Cynthia Zanoni Itens desta coleção MÓDULO Introdução ao Java no Azure 37 min  4.7 (336)  32% concluído MÓDULO Escolher o serviço ideal do Azure para implantar seu aplicativo Java 25 min  4.8 (239) MÓDULO Implantar um aplicativo Spring Boot no Azure 30 min  4.7 (144) MÓDULO Implantar microserviços do Spring no Azure 38 min  4.5 (789)
+# Introdução a Java no Azure
+
+MÓDULO
+Introdução ao Java no Azure
+
+MÓDULO
+Escolher o serviço ideal do Azure para implantar seu aplicativo Java
+
+MÓDULO
+Implantar um aplicativo Spring Boot no Azure
+
+MÓDULO
+Implantar microserviços do Spring no Azure
